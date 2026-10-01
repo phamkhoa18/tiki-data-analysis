@@ -1,0 +1,46 @@
+# ==========================================================
+# THƯ VIỆN ĐỒ ÁN BIG DATA: PHÂN TÍCH HỆ THỐNG DỮ LIỆU TIKI
+# Nhóm thực hiện: Phạm Đăng Khoa, Phạm Minh Nhật, Nguyễn Văn Sang
+# ==========================================================
+
+# Big Data Processing & Distributed Computing
+pyspark>=3.4.0
+pyarrow>=14.0.0
+findspark>=2.0.1
+
+# Data Manipulation & Numerical Computation
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Natural Language Processing & Machine Learning
+scikit-learn>=1.3.0
+torch>=2.0.0
+regex>=2023.6.3
+nltk>=3.8.1
+
+# Data Visualization & Web Dashboard
+streamlit>=1.30.0
+plotly>=5.18.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Crawling & Data Ingestion
+requests>=2.31.0
+aiohttp>=3.9.0
+beautifulsoup4>=4.12.0
+fake-useragent>=1.4.0
+
+# Streaming Simulation
+kafka-python>=2.0.2
+
+# Document & Reporting Automation
+python-docx>=1.0.0
+python-pptx>=0.6.21
+openpyxl>=3.1.2
+xlsxwriter>=3.1.0
+
+# Utilities
+tqdm>=4.66.0
+python-dotenv>=1.0.0
+rich>=13.7.0

@@ -1,0 +1,10 @@
+{
+  "model_type": "Spark MLlib ALS / Matrix Factorization",
+  "latent_factors": 20,
+  "regularization_param": 0.05,
+  "num_users": 799,
+  "num_items": 1467,
+  "test_rmse": 1.589,
+  "test_mae": 1.2331,
+  "status": "Trained & Validated"
+}

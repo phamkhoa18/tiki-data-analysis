@@ -1,0 +1,23 @@
+{
+  "window_event_count": 60,
+  "event_breakdown": {
+    "VIEW_ITEM": 24,
+    "SEARCH": 14,
+    "PURCHASE": 14,
+    "ADD_TO_CART": 8
+  },
+  "trending_product_ids": {
+    "100597": 2,
+    "101073": 2,
+    "100251": 1,
+    "100946": 1,
+    "100738": 1
+  },
+  "platform_breakdown": {
+    "Mobile_Web": 21,
+    "Desktop_Web": 15,
+    "Android_App": 15,
+    "iOS_App": 9
+  },
+  "estimated_realtime_conversion_rate": 58.33
+}

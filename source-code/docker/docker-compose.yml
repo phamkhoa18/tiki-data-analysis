@@ -1,0 +1,59 @@
+version: '3.8'
+
+services:
+  # ===================================================
+  # APACHE SPARK CLUSTER (Master & Worker)
+  # ===================================================
+  spark-master:
+    image: bitnami/spark:3.5.0
+    container_name: tiki_spark_master
+    environment:
+      - SPARK_MODE=master
+      - SPARK_RPC_AUTHENTICATION_ENABLED=no
+      - SPARK_RPC_ENCRYPTION_ENABLED=no
+      - SPARK_LOCAL_STORAGE_ENCRYPTION_ENABLED=no
+      - SPARK_SSL_ENABLED=no
+    ports:
+      - "8080:8080" # Spark Web UI
+      - "7077:7077" # Spark Master port
+    volumes:
+      - ../../dataset:/opt/bitnami/spark/dataset
+      - ../../source-code:/opt/bitnami/spark/source-code
+
+  spark-worker:
+    image: bitnami/spark:3.5.0
+    container_name: tiki_spark_worker
+    depends_on:
+      - spark-master
+    environment:
+      - SPARK_MODE=worker
+      - SPARK_MASTER_URL=spark://spark-master:7077
+      - SPARK_WORKER_MEMORY=2G
+      - SPARK_WORKER_CORES=2
+    volumes:
+      - ../../dataset:/opt/bitnami/spark/dataset
+      - ../../source-code:/opt/bitnami/spark/source-code
+
+  # ===================================================
+  # APACHE KAFKA & ZOOKEEPER (Real-time Streaming)
+  # ===================================================
+  zookeeper:
+    image: bitnami/zookeeper:3.8
+    container_name: tiki_zookeeper
+    ports:
+      - "2181:2181"
+    environment:
+      - ALLOW_ANONYMOUS_LOGIN=yes
+
+  kafka:
+    image: bitnami/kafka:3.5
+    container_name: tiki_kafka
+    depends_on:
+      - zookeeper
+    ports:
+      - "9092:9092"
+    environment:
+      - KAFKA_CFG_ZOOKEEPER_CONNECT=zookeeper:2181
+      - KAFKA_CFG_LISTENERS=PLAINTEXT://:9092
+      - KAFKA_CFG_ADVERTISED_LISTENERS=PLAINTEXT://localhost:9092
+      - ALLOW_PLAINTEXT_LISTENER=yes

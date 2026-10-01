@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Spark / checkpoints / temporary stream buffers
+*.checkpoint/
+*.spark/
+.ipynb_checkpoints/
+.DS_Store
+
+# Large archives (generated via pack_submission.py)
+*.zip
+
+# Temporary outputs
+*.tmp

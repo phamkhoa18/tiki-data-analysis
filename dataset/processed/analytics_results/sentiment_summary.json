@@ -1,0 +1,45 @@
+{
+  "total_reviews_analyzed": 6000,
+  "sentiment_counts": {
+    "TÍCH CỰC": 4201,
+    "TRUNG TÍNH": 908,
+    "TIÊU CỰC": 891
+  },
+  "sentiment_percentages": {
+    "TÍCH CỰC": 70.0,
+    "TRUNG TÍNH": 15.1,
+    "TIÊU CỰC": 14.8
+  },
+  "aspect_breakdown": [
+    {
+      "Khía cạnh": "Vận chuyển / Giao nhận",
+      "Số lượt nhắc đến": 2821,
+      "Tích cực (%)": 75.9,
+      "Tiêu cực (%)": 8.2,
+      "Điểm hài lòng TB": 4.17
+    },
+    {
+      "Khía cạnh": "Đóng gói / Hộp hàng",
+      "Số lượt nhắc đến": 2814,
+      "Tích cực (%)": 76.8,
+      "Tiêu cực (%)": 7.2,
+      "Điểm hài lòng TB": 4.21
+    },
+    {
+      "Khía cạnh": "Chất lượng sản phẩm",
+      "Số lượt nhắc đến": 3281,
+      "Tích cực (%)": 79.5,
+      "Tiêu cực (%)": 13.9,
+      "Điểm hài lòng TB": 4.15
+    },
+    {
+      "Khía cạnh": "Giá cả & Dịch vụ",
+      "Số lượt nhắc đến": 2946,
+      "Tích cực (%)": 69.7,
+      "Tiêu cực (%)": 14.7,
+      "Điểm hài lòng TB": 3.97
+    }
+  ],
+  "top_positive_driver": "Giao hàng siêu tốc TikiNow & Chất lượng chính hãng",
+  "top_negative_driver": "Vỏ hộp móp méo trong quá trình lưu kho / vận chuyển"
+}
