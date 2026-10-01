@@ -62,7 +62,7 @@ def create_word_report():
         "Giảng viên hướng dẫn:\t\tPGS. TS. Giảng Viên Phụ Trách\n"
         "Lớp học phần:\t\t06_BigData\n"
         "Nhóm sinh viên thực hiện:\tNhóm 01\n"
-        "  1. Phạm Đăng Khoa\tMSSV: 24810114 (Trưởng nhóm)\n"
+        "  1. Phạm Đăng Khoa\tMSSV: 24810114\n"
         "  2. Phạm Minh Nhật\tMSSV: 24810119\n"
         "  3. Nguyễn Văn Sang\tMSSV: 24810114\n\n\n\n"
     )
@@ -386,7 +386,7 @@ def create_excel_assignment():
             1,
             "Phạm Đăng Khoa",
             "24810114",
-            "Trưởng nhóm",
+            "Thành viên",
             "1. Thiết kế kiến trúc tổng thể Big Data (Lambda Architecture).\n"
             "2. Xây dựng Data Cleaning Job và Parquet Data Lake (Spark ETL).\n"
             "3. Phát triển thuật toán gợi ý sản phẩm Matrix Factorization ALS trên Spark MLlib.\n"

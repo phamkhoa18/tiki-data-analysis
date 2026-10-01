@@ -2,9 +2,50 @@
 ## (Tiki E-Commerce Big Data Analytics & AI Recommendation System)
 
 ### Thông Tin Nhóm Sinh Viên
-1. **Phạm Đăng Khoa** (MSSV: 24810114) – *Trưởng nhóm*
-2. **Phạm Minh Nhật** (MSSV: 24810119) – *Thành viên*
-3. **Nguyễn Văn Sang** (MSSV: 24810114) – *Thành viên*
+1. **Phạm Đăng Khoa** (MSSV: 24810114)
+2. **Phạm Minh Nhật** (MSSV: 24810119)
+3. **Nguyễn Văn Sang** (MSSV: 24810114)
+
+---
+
+### 🌿 Hướng Dẫn Git & Tạo Nhánh (Branch) Cho Thành Viên Nhóm
+> 📖 *Tài liệu chi tiết xem tại:* [HUONG_DAN_GIT_CHO_NHOM.md](HUONG_DAN_GIT_CHO_NHOM.md)
+
+**Quy tắc:** Tuyệt đối **không code trực tiếp trên nhánh `main`**. Mỗi người tạo 1 nhánh riêng để làm việc.
+
+#### 1. Lấy code mới nhất về máy trước khi làm việc:
+```bash
+git checkout main
+git pull origin main
+```
+
+#### 2. Tạo nhánh riêng của mình:
+```bash
+# Cú pháp: git checkout -b feature/<tên-bạn>-<nhiệm-vụ>
+
+# Ví dụ cho Khoa:
+git checkout -b feature/khoa-pyspark-etl
+
+# Ví dụ cho Nhật:
+git checkout -b feature/nhat-crawler-nlp
+
+# Ví dụ cho Sang:
+git checkout -b feature/sang-dashboard-rfm
+```
+
+#### 3. Viết code xong thì lưu (commit) và đẩy lên GitHub:
+```bash
+git status
+git add .
+git commit -m "feat: mô tả công việc bạn vừa hoàn thành"
+
+# Đẩy nhánh lên GitHub (lần đầu):
+git push -u origin <tên-nhánh-của-bạn>
+```
+
+#### 4. Tạo Pull Request (PR):
+- Vào link repo: https://github.com/phamkhoa18/tiki-data-analysis
+- Bấm nút xanh **"Compare & pull request"** để gộp code vào `main`.
 
 ---
 
@@ -33,6 +74,7 @@ bigdata_doan/
 ├── refs/                     # Tài liệu tham khảo, bài báo khoa học, BibTeX
 ├── libs/                     # Danh sách thư viện và tài liệu hướng dẫn môi trường
 ├── readme.txt                # Tập tin thông tin đề tài và nhóm theo đúng mẫu
+├── HUONG_DAN_GIT_CHO_NHOM.md # Hướng dẫn chi tiết quy trình Git & tạo branch
 └── pack_submission.py        # Công cụ 1-click đóng gói file ZIP nộp đồ án
 ```
 

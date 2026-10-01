@@ -5,7 +5,7 @@ Lớp học phần: 06_BigData
 Năm học: HK1/2024-2025
 --------------------------------------------
 Thông tin nhóm
-1. Phạm Đăng Khoa (24810114) – [Trưởng nhóm] – SĐT: 0987654321 – Email: 24810114@student.edu.vn
+1. Phạm Đăng Khoa (24810114) – SĐT: 0987654321 – Email: 24810114@student.edu.vn
 2. Phạm Minh Nhật (24810119) – SĐT: 0912345678 – Email: 24810119@student.edu.vn
 3. Nguyễn Văn Sang (24810114) – SĐT: 0909123456 – Email: sang.nv@student.edu.vn
 --------------------------------------------

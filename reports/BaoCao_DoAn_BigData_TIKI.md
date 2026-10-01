@@ -5,9 +5,9 @@
 - **Lớp học phần:** 06_BigData
 - **Nhóm thực hiện:** Nhóm 01
 - **Sinh viên thực hiện:**
-  1. **Phạm Đăng Khoa** (MSSV: 24810114) – *Trưởng nhóm*
-  2. **Phạm Minh Nhật** (MSSV: 24810119) – *Thành viên*
-  3. **Nguyễn Văn Sang** (MSSV: 24810114) – *Thành viên*
+  1. **Phạm Đăng Khoa** (MSSV: 24810114)
+  2. **Phạm Minh Nhật** (MSSV: 24810119)
+  3. **Nguyễn Văn Sang** (MSSV: 24810114)
 - **Thời gian hoàn thành:** Năm học 2024 - 2025
 
 ---
