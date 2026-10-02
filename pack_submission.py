@@ -28,7 +28,7 @@ def package_submission(class_code="06", group_no="01", topic_name="PhanTichHeTho
 
     # Required items
     required_dirs = ["source-code", "reports", "dataset", "refs", "libs"]
-    required_files = ["readme.txt"]
+    required_files = ["readme.txt", "TAI_LIEU_CRAWL_API_TIKI.md"]
 
     # Remove temporary target folder if exists
     if os.path.exists(target_folder):

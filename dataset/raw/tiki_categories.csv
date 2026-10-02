@@ -1,11 +1,11 @@
-category_id,category_name,parent_id,level,description
-1789,Điện Thoại - Máy Tính Bảng,0,1,Thiết bị di động thông minh và máy tính bảng
-1815,Thiết Bị Số - Phụ Kiện Số,0,1,Tai nghe loa phụ kiện công nghệ
-1883,Nhà Cửa - Đời Sống,0,1,Đồ dùng gia đình nội thất trang trí
-1882,Điện Gia Dụng,0,1,Nồi chiên không dầu máy lọc không khí robot hút bụi
-8322,Nhà Sách Tiki,0,1,Sách kinh tế văn học kỹ năng sống công nghệ
-1520,Làm Đẹp - Sức Khỏe,0,1,Mỹ phẩm chăm sóc da thực phẩm chức năng
-915,Thời Trang Nam,0,1,Quần áo giày dép phụ kiện nam
-931,Thời Trang Nữ,0,1,Váy đầm quần áo giày dép phụ kiện nữ
-4384,Bách Hóa Online,0,1,Nhu yếu phẩm thực phẩm đồ uống
-1975,Thể Thao - Dã Ngoại,0,1,Dụng cụ thể hình dã ngoại thể thao ngoài trời
+category_id,category_name,parent_id,level,url_slug,total_products,crawled_at
+1789,Điện Thoại - Máy Tính Bảng,0,1,dien-thoai-may-tinh-bang,107,2026-10-01 12:17:46
+1815,Thiết Bị Số - Phụ Kiện Số,0,1,thiet-bi-so-phu-kien-so,2000,2026-10-01 12:17:46
+1882,Điện Gia Dụng,0,1,dien-gia-dung,2000,2026-10-01 12:17:46
+8322,Nhà Sách Tiki,0,1,nha-sach-tiki,2000,2026-10-01 12:17:46
+1520,Làm Đẹp - Sức Khỏe,0,1,lam-dep-suc-khoe,2000,2026-10-01 12:17:46
+915,Thời Trang Nam,0,1,thoi-trang-nam,2000,2026-10-01 12:17:46
+931,Thời Trang Nữ,0,1,thoi-trang-nu,2000,2026-10-01 12:17:46
+1883,Nhà Cửa - Đời Sống,0,1,nha-cua-doi-song,2000,2026-10-01 12:17:46
+4384,Bách Hóa Online,0,1,bach-hoa-online,2000,2026-10-01 12:17:46
+1975,Thể Thao - Dã Ngoại,0,1,the-thao-da-ngoai,2000,2026-10-01 12:17:46

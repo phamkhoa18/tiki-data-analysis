@@ -1,104 +1,112 @@
 # Đồ Án Big Data: Phân Tích Hệ Thống Dữ Liệu Sàn Thương Mại Điện Tử TIKI
-## (Tiki E-Commerce Big Data Analytics & AI Recommendation System)
+## (Tiki E-Commerce Big Data Analytics Platform)
 
-### Thông Tin Nhóm Sinh Viên
+### 👥 Thông Tin Nhóm Sinh Viên
 1. **Phạm Đăng Khoa** (MSSV: 24810114)
 2. **Phạm Minh Nhật** (MSSV: 24810119)
 3. **Nguyễn Văn Sang** (MSSV: 24810114)
 
 ---
 
-### 🌿 Hướng Dẫn Git & Tạo Nhánh (Branch) Cho Thành Viên Nhóm
-> 📖 *Tài liệu chi tiết xem tại:* [HUONG_DAN_GIT_CHO_NHOM.md](HUONG_DAN_GIT_CHO_NHOM.md)
+### 📦 DỮ LIỆU ĐÃ THU THẬP & SẴN SÀNG SỬ DỤNG (DÀNH CHO CÁC THÀNH VIÊN TRONG NHÓM)
 
-**Quy tắc:** Tuyệt đối **không code trực tiếp trên nhánh `main`**. Mỗi người tạo 1 nhánh riêng để làm việc.
+Dữ liệu thực tế từ Tiki.vn đã được cào, làm sạch và chuẩn hóa 100%. Các thành viên trong nhóm chỉ cần kéo code về (`git pull`) và lấy các tệp CSV dưới đây để làm phần việc của mình:
 
-#### 1. Lấy code mới nhất về máy trước khi làm việc:
-```bash
-git checkout main
-git pull origin main
-```
+| Tệp Dữ Liệu | Đường Dẫn | Số Lượng Bản Ghi | Mục Đích Sử Dụng |
+| :--- | :--- | :---: | :--- |
+| **Sản phẩm sạch (Master)** | [`dataset/tiki_products_clean_full.csv`](dataset/tiki_products_clean_full.csv) | **2,307** sản phẩm | 35 thuộc tính chuẩn (giá, sold, rating, tier, specs...). Dùng cho **Spark ETL, Phân tích K-Means, Dashboard**. |
+| **Đánh giá khách hàng** | [`dataset/raw/tiki_reviews.csv`](dataset/raw/tiki_reviews.csv) | **35,632** nhận xét | Đánh giá sao, nội dung bình luận tiếng Việt, sentiment. Dùng cho **Vietnamese NLP, Sentiment Mining, Recommendation**. |
+| **Bảng phẳng 360 độ** | [`dataset/tiki_master_dataset_all_in_one.csv`](dataset/tiki_master_dataset_all_in_one.csv) | **36,166** dòng | Hợp nhất toàn bộ Sản phẩm + Đánh giá + Nhà bán. Dùng cho **Data Lake Parquet Snappy**. |
+| **CSDL Quan hệ SQLite** | [`dataset/tiki_database.db`](dataset/tiki_database.db) | 4 bảng chuẩn 3NF | Lưu trữ DBMS quan hệ (categories, sellers, products, reviews). |
+| **CSDL NoSQL JSON** | [`dataset/nosql_documents/`](dataset/nosql_documents/) | **2,307** documents | MongoDB-ready Documents. |
 
-#### 2. Tạo nhánh riêng của mình:
-```bash
-# Cú pháp: git checkout -b feature/<tên-bạn>-<nhiệm-vụ>
-
-# Ví dụ cho Khoa:
-git checkout -b feature/khoa-pyspark-etl
-
-# Ví dụ cho Nhật:
-git checkout -b feature/nhat-crawler-nlp
-
-# Ví dụ cho Sang:
-git checkout -b feature/sang-dashboard-rfm
-```
-
-#### 3. Viết code xong thì lưu (commit) và đẩy lên GitHub:
-```bash
-git status
-git add .
-git commit -m "feat: mô tả công việc bạn vừa hoàn thành"
-
-# Đẩy nhánh lên GitHub (lần đầu):
-git push -u origin <tên-nhánh-của-bạn>
-```
-
-#### 4. Tạo Pull Request (PR):
-- Vào link repo: https://github.com/phamkhoa18/tiki-data-analysis
-- Bấm nút xanh **"Compare & pull request"** để gộp code vào `main`.
+> 📖 **Tra cứu chi tiết ý nghĩa 35 cột thuộc tính và sơ đồ quan hệ ERD tại:**  
+> 👉 [**`dataset/CAU_TRUC_DU_LIEU_CRAWL.md`**](dataset/CAU_TRUC_DU_LIEU_CRAWL.md)
 
 ---
 
-### Cấu Trúc Thư Mục Chuẩn Nộp Bài
-Dự án được cấu trúc đúng theo hướng dẫn nộp đồ án:
+### 📂 PHÂN CHIA THƯ MỤC CÔNG VIỆC CHO TỪNG THÀNH VIÊN
+
+Mỗi thành viên trong nhóm code đúng vào thư mục chức năng đã được tạo sẵn khung:
 
 ```
 bigdata_doan/
-├── source-code/               # Toàn bộ mã nguồn hệ thống
-│   ├── crawler/              # Thu thập dữ liệu từ Tiki Public REST API
-│   ├── etl_spark/            # Xử lý làm sạch, chuẩn hóa với Apache Spark
-│   ├── analytics_ml/         # Phân tích kinh doanh, NLP tiếng Việt, ALS Recommender, RFM
-│   ├── streaming/            # Giả lập luồng sự kiện clickstream Kafka & Spark Streaming
-│   ├── dashboard/            # Web Dashboard trực quan hóa tương tác (Streamlit)
-│   ├── docker/               # Cấu hình Docker Compose (Spark Master/Worker, Kafka, Zookeeper)
-│   ├── pipeline_runner.py    # Script chạy toàn bộ pipeline ETL & ML end-to-end
-│   └── requirements.txt      # Danh sách thư viện cần cài đặt
-├── dataset/                  # Dữ liệu phục vụ hệ thống
-│   ├── raw/                  # Dữ liệu gốc (products, reviews, categories)
-│   ├── processed/            # Dữ liệu Parquet đã làm sạch & phân vùng Data Lake
-│   └── generate_dataset.py   # Script sinh/cập nhật dữ liệu mẫu
-├── reports/                  # Báo cáo, slide thuyết trình, bảng phân công & tự chấm
-│   ├── BaoCao_DoAn_BigData_TIKI.docx
-│   ├── Slide_ThuyetTrinh_TIKI_BigData.pptx
-│   └── Bang_Phan_Cong_Va_Tu_Cham_Diem.xlsx
-├── refs/                     # Tài liệu tham khảo, bài báo khoa học, BibTeX
-├── libs/                     # Danh sách thư viện và tài liệu hướng dẫn môi trường
-├── readme.txt                # Tập tin thông tin đề tài và nhóm theo đúng mẫu
-├── HUONG_DAN_GIT_CHO_NHOM.md # Hướng dẫn chi tiết quy trình Git & tạo branch
-└── pack_submission.py        # Công cụ 1-click đóng gói file ZIP nộp đồ án
+├── source-code/
+│   ├── crawler/        # [HOÀN THÀNH] Module cào & quản trị dữ liệu Tiki
+│   ├── etl_spark/      # [KHOA] Module làm sạch, chuyển đổi sang Parquet Snappy phân vùng Data Lake
+│   ├── analytics_ml/   # [NHẬT] Thuật toán học máy: Phân tích giá, NLP cảm xúc, ALS Gợi ý sản phẩm
+│   ├── streaming/      # [SANG/NHẬT] Giả lập luồng sự kiện Clickstream Kafka & Spark Streaming
+│   ├── dashboard/      # [SANG] Giao diện trực quan hóa tương tác (Streamlit)
+│   ├── docker/         # Môi trường chạy Spark Master/Worker và Kafka
+│   └── requirements.txt# Thư viện Python cần cài đặt
+├── dataset/
+│   ├── raw/            # Dữ liệu cào gốc (products, reviews, categories, sellers)
+│   ├── tiki_products_clean_full.csv   # FILE CHÍNH 2,307 SẢN PHẨM CHUẨN ĐỂ LÀM BÀI
+│   ├── tiki_master_dataset_all_in_one.csv # BẢNG MASTER 360 ĐỘ
+│   ├── tiki_database.db               # CSDL SQLite RDBMS
+│   ├── nosql_documents/# CSDL NoSQL JSON Documents
+│   ├── backups/        # Bản sao lưu snapshot dữ liệu có mã băm MD5
+│   └── processed/      # Thư mục để các bạn xuất kết quả sau khi chạy Spark ETL / ML
+├── reports/            # Báo cáo Word (*.docx), Slides (*.pptx), Bảng tự chấm (*.xlsx)
+├── refs/               # Tài liệu tham khảo nghiên cứu
+├── libs/               # Danh sách thư viện và tài liệu hướng dẫn
+├── readme.txt          # File thông tin đề tài theo mẫu quy định nộp bài của Thầy
+├── TAI_LIEU_CRAWL_API_TIKI.md # Tài liệu kỹ thuật tra cứu API & hướng dẫn chạy crawler
+└── pack_submission.py  # Công cụ 1 lệnh nén file zip nộp bài chuẩn quy định
 ```
 
 ---
 
-### Hướng Dẫn Chạy Nhanh
+### 🌿 QUY TRÌNH LÀM VIỆC TRÊN GIT CHO CÁC THÀNH VIÊN
 
-#### 1. Cài đặt thư viện
-```bash
-pip install -r libs/requirements.txt
-```
+1. **Kéo dữ liệu và mã nguồn mới nhất về máy**:
+   ```bash
+   git checkout main
+   git pull origin main
+   ```
+2. **Tạo nhánh riêng để làm việc (Không code đè lên `main`)**:
+   ```bash
+   # Ví dụ cho Khoa:
+   git checkout -b feature/khoa-spark-etl
+   
+   # Ví dụ cho Nhật:
+   git checkout -b feature/nhat-ml-nlp
+   
+   # Ví dụ cho Sang:
+   git checkout -b feature/sang-dashboard-rfm
+   ```
+3. **Lấy dữ liệu CSV để code**:
+   - Dữ liệu sản phẩm: đọc từ `dataset/tiki_products_clean_full.csv`
+   - Dữ liệu đánh giá: đọc từ `dataset/raw/tiki_reviews.csv`
+4. **Code xong thì commit và đẩy lên GitHub**:
+   ```bash
+   git add .
+   git commit -m "feat: hoàn thành module ..."
+   git push -u origin <tên-nhánh-của-bạn>
+   ```
+5. **Vào GitHub tạo Pull Request (PR)** gộp vào `main`.
 
-#### 2. Chạy toàn bộ pipeline ETL, Analytics & ML
-```bash
-python3 source-code/pipeline_runner.py
-```
+---
 
-#### 3. Khởi chạy Web Dashboard
-```bash
-streamlit run source-code/dashboard/app.py
-```
+### ⚙️ HƯỚNG DẪN THỰC THI MODULE CRAWLER (CHO THẦY CÔ CHẤM BÀI)
 
-#### 4. Đóng gói file nén nộp bài theo chuẩn `<Mã lớp>_<STT nhóm>_<Tên đề tài>.zip`
-```bash
-python3 pack_submission.py --class 06 --group 01
-```
-*(File zip sẽ được tạo tự động với đầy đủ các thư mục theo đúng yêu cầu giảng viên)*
+1. **Cài đặt môi trường**:
+   ```bash
+   pip install -r libs/requirements.txt
+   ```
+2. **Chạy cào dữ liệu sản phẩm mới (Tùy chọn)**:
+   ```bash
+   python3 source-code/crawler/crawl_tiki_products.py --pages 5
+   ```
+3. **Xuất CSDL Quan hệ SQLite & NoSQL**:
+   ```bash
+   python3 source-code/crawler/storage_exporter.py --type all
+   ```
+4. **Tạo bản sao lưu dữ liệu (Backup Snapshot)**:
+   ```bash
+   python3 source-code/crawler/backup_manager.py --backup
+   ```
+5. **Đóng gói file nén nộp bài theo chuẩn `<Mã lớp>_<STT nhóm>_<Tên đề tài>.zip`**:
+   ```bash
+   python3 pack_submission.py --class 06 --group 01
+   ```

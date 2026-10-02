@@ -1,0 +1,36 @@
+{
+  "crawl_completed_at": "2026-10-01 13:04:44",
+  "duration_seconds": 2818.047624,
+  "total_products": 2307,
+  "total_reviews": 35632,
+  "total_categories": 10,
+  "validation_stats": {
+    "products_cleaned": 2307,
+    "reviews_cleaned": 35632,
+    "duplicates_removed": 0,
+    "nulls_filled": 31,
+    "encoding_fixed": 137177
+  },
+  "rate_limiter_stats": {
+    "total_requests": 2647,
+    "total_retries": 0,
+    "total_errors": 0
+  },
+  "output_directory": "/Users/khoait/Documents/SourceCompany/bigdata_doan/dataset/raw",
+  "data_sources": [
+    "tiki_api (products + reviews)",
+    "tiki_web (product details)"
+  ],
+  "files_generated": [
+    "tiki_categories.csv",
+    "tiki_categories.json",
+    "tiki_products.csv",
+    "tiki_products.json",
+    "tiki_reviews.csv",
+    "tiki_reviews.json",
+    "tiki_sellers.csv",
+    "tiki_sellers.json",
+    "tiki_product_details.csv",
+    "tiki_product_details.json"
+  ]
+}

@@ -1,0 +1,2522 @@
+[
+  {
+    "seller_id": 1,
+    "seller_name": "Tiki Trading",
+    "is_official_store": "False",
+    "total_products": 934,
+    "avg_rating": 4.47,
+    "total_reviews": 249627
+  },
+  {
+    "seller_id": 10738,
+    "seller_name": "ĐŨI VIỆT Official",
+    "is_official_store": "False",
+    "total_products": 51,
+    "avg_rating": 1.76,
+    "total_reviews": 61
+  },
+  {
+    "seller_id": 29952,
+    "seller_name": "Hồng Hạnh Mobile",
+    "is_official_store": "False",
+    "total_products": 46,
+    "avg_rating": 0.83,
+    "total_reviews": 18
+  },
+  {
+    "seller_id": 162514,
+    "seller_name": "Long Hưng Official Store",
+    "is_official_store": "False",
+    "total_products": 38,
+    "avg_rating": 1.28,
+    "total_reviews": 64
+  },
+  {
+    "seller_id": 112944,
+    "seller_name": "Yên Phúc",
+    "is_official_store": "False",
+    "total_products": 37,
+    "avg_rating": 3.39,
+    "total_reviews": 186
+  },
+  {
+    "seller_id": 55147,
+    "seller_name": "MRM Manlywear Official",
+    "is_official_store": "False",
+    "total_products": 30,
+    "avg_rating": 3.81,
+    "total_reviews": 8262
+  },
+  {
+    "seller_id": 8827,
+    "seller_name": "Miley Lingerie",
+    "is_official_store": "False",
+    "total_products": 30,
+    "avg_rating": 3.62,
+    "total_reviews": 896
+  },
+  {
+    "seller_id": 249310,
+    "seller_name": "NeSa Shop",
+    "is_official_store": "False",
+    "total_products": 28,
+    "avg_rating": 1.86,
+    "total_reviews": 85
+  },
+  {
+    "seller_id": 204632,
+    "seller_name": "TD2000 store",
+    "is_official_store": "False",
+    "total_products": 27,
+    "avg_rating": 1.77,
+    "total_reviews": 47
+  },
+  {
+    "seller_id": 134678,
+    "seller_name": "Smarthome29",
+    "is_official_store": "False",
+    "total_products": 26,
+    "avg_rating": 4.09,
+    "total_reviews": 437
+  },
+  {
+    "seller_id": 28688,
+    "seller_name": "ShopN6",
+    "is_official_store": "False",
+    "total_products": 26,
+    "avg_rating": 4.03,
+    "total_reviews": 3625
+  },
+  {
+    "seller_id": 178422,
+    "seller_name": "ATZstore",
+    "is_official_store": "False",
+    "total_products": 23,
+    "avg_rating": 3.54,
+    "total_reviews": 98
+  },
+  {
+    "seller_id": 9455,
+    "seller_name": "MISA Shop",
+    "is_official_store": "False",
+    "total_products": 23,
+    "avg_rating": 2.97,
+    "total_reviews": 49
+  },
+  {
+    "seller_id": 361737,
+    "seller_name": "MISAHAN",
+    "is_official_store": "False",
+    "total_products": 22,
+    "avg_rating": 1.73,
+    "total_reviews": 16
+  },
+  {
+    "seller_id": 94931,
+    "seller_name": "ZoZo Sport",
+    "is_official_store": "False",
+    "total_products": 21,
+    "avg_rating": 1.79,
+    "total_reviews": 15
+  },
+  {
+    "seller_id": 177515,
+    "seller_name": "kosuytu",
+    "is_official_store": "False",
+    "total_products": 18,
+    "avg_rating": 1.33,
+    "total_reviews": 6
+  },
+  {
+    "seller_id": 169077,
+    "seller_name": "misa310512",
+    "is_official_store": "False",
+    "total_products": 17,
+    "avg_rating": 2.18,
+    "total_reviews": 19
+  },
+  {
+    "seller_id": 175147,
+    "seller_name": "Nhà Chíp",
+    "is_official_store": "False",
+    "total_products": 15,
+    "avg_rating": 4.58,
+    "total_reviews": 262
+  },
+  {
+    "seller_id": 159903,
+    "seller_name": "DEVO SHOP",
+    "is_official_store": "False",
+    "total_products": 14,
+    "avg_rating": 1.86,
+    "total_reviews": 11
+  },
+  {
+    "seller_id": 108828,
+    "seller_name": "Tiện ích 1708",
+    "is_official_store": "False",
+    "total_products": 14,
+    "avg_rating": 4.64,
+    "total_reviews": 504
+  },
+  {
+    "seller_id": 1409,
+    "seller_name": "BG Việt Nam Official Store",
+    "is_official_store": "False",
+    "total_products": 14,
+    "avg_rating": 3.96,
+    "total_reviews": 850
+  },
+  {
+    "seller_id": 8094,
+    "seller_name": "ALIGRO",
+    "is_official_store": false,
+    "total_products": 14,
+    "avg_rating": 1.44,
+    "total_reviews": 11
+  },
+  {
+    "seller_id": 188535,
+    "seller_name": "mybao040508",
+    "is_official_store": false,
+    "total_products": 14,
+    "avg_rating": 2.36,
+    "total_reviews": 17
+  },
+  {
+    "seller_id": 20897,
+    "seller_name": "THỜI TRANG BOBOSHOP",
+    "is_official_store": false,
+    "total_products": 13,
+    "avg_rating": 2.08,
+    "total_reviews": 64
+  },
+  {
+    "seller_id": 353491,
+    "seller_name": "OM LUCKY WAHIK",
+    "is_official_store": false,
+    "total_products": 12,
+    "avg_rating": 2.5,
+    "total_reviews": 13
+  },
+  {
+    "seller_id": 313025,
+    "seller_name": "TAKA Phụ Kiện Số",
+    "is_official_store": "False",
+    "total_products": 11,
+    "avg_rating": 4.82,
+    "total_reviews": 1276
+  },
+  {
+    "seller_id": 54282,
+    "seller_name": "Photodesign VN Official",
+    "is_official_store": "False",
+    "total_products": 11,
+    "avg_rating": 4.68,
+    "total_reviews": 1179
+  },
+  {
+    "seller_id": 242150,
+    "seller_name": "Đồ Bộ Eirlys Shop",
+    "is_official_store": "False",
+    "total_products": 11,
+    "avg_rating": 3.88,
+    "total_reviews": 13
+  },
+  {
+    "seller_id": 127051,
+    "seller_name": "TrustBuy",
+    "is_official_store": "False",
+    "total_products": 10,
+    "avg_rating": 4.78,
+    "total_reviews": 1167
+  },
+  {
+    "seller_id": 76942,
+    "seller_name": "THUYDUNGSHOP",
+    "is_official_store": "False",
+    "total_products": 10,
+    "avg_rating": 2.76,
+    "total_reviews": 18
+  },
+  {
+    "seller_id": 173338,
+    "seller_name": "SMARTWATCH",
+    "is_official_store": false,
+    "total_products": 10,
+    "avg_rating": 2.93,
+    "total_reviews": 50
+  },
+  {
+    "seller_id": 55218,
+    "seller_name": "FORSETI VIỆT NAM",
+    "is_official_store": false,
+    "total_products": 10,
+    "avg_rating": 3.6,
+    "total_reviews": 66
+  },
+  {
+    "seller_id": 277179,
+    "seller_name": "Venie",
+    "is_official_store": "False",
+    "total_products": 9,
+    "avg_rating": 4.56,
+    "total_reviews": 121
+  },
+  {
+    "seller_id": 202732,
+    "seller_name": "DavieCollection",
+    "is_official_store": "False",
+    "total_products": 9,
+    "avg_rating": 1.11,
+    "total_reviews": 2
+  },
+  {
+    "seller_id": 16588,
+    "seller_name": "May 10",
+    "is_official_store": "False",
+    "total_products": 9,
+    "avg_rating": 2.12,
+    "total_reviews": 1329
+  },
+  {
+    "seller_id": 158862,
+    "seller_name": "Art H Store",
+    "is_official_store": false,
+    "total_products": 9,
+    "avg_rating": 4.63,
+    "total_reviews": 122
+  },
+  {
+    "seller_id": 5826,
+    "seller_name": "MAYHOMES Official Store",
+    "is_official_store": false,
+    "total_products": 9,
+    "avg_rating": 4.66,
+    "total_reviews": 183
+  },
+  {
+    "seller_id": 276201,
+    "seller_name": "US ARMY OFFICIAL",
+    "is_official_store": false,
+    "total_products": 9,
+    "avg_rating": 4.7,
+    "total_reviews": 308
+  },
+  {
+    "seller_id": 28122,
+    "seller_name": "shopthoitranganhnguyen",
+    "is_official_store": false,
+    "total_products": 9,
+    "avg_rating": 2.63,
+    "total_reviews": 47
+  },
+  {
+    "seller_id": 115414,
+    "seller_name": "Gold",
+    "is_official_store": "False",
+    "total_products": 8,
+    "avg_rating": 4.15,
+    "total_reviews": 115
+  },
+  {
+    "seller_id": 6175,
+    "seller_name": "Thời Trang Novelty Nhà Bè",
+    "is_official_store": "False",
+    "total_products": 8,
+    "avg_rating": 3.04,
+    "total_reviews": 37
+  },
+  {
+    "seller_id": 63850,
+    "seller_name": "monkibaby",
+    "is_official_store": "False",
+    "total_products": 8,
+    "avg_rating": 4.17,
+    "total_reviews": 39
+  },
+  {
+    "seller_id": 189208,
+    "seller_name": "Quỳnh Hoa Store",
+    "is_official_store": "False",
+    "total_products": 8,
+    "avg_rating": 4.17,
+    "total_reviews": 158
+  },
+  {
+    "seller_id": 158759,
+    "seller_name": "Tuấn Tú Store 68",
+    "is_official_store": "False",
+    "total_products": 8,
+    "avg_rating": 0.62,
+    "total_reviews": 2
+  },
+  {
+    "seller_id": 235530,
+    "seller_name": "Thời Trang Tuổi Teen HL",
+    "is_official_store": "False",
+    "total_products": 8,
+    "avg_rating": 3.56,
+    "total_reviews": 35
+  },
+  {
+    "seller_id": 92468,
+    "seller_name": "UniMart",
+    "is_official_store": false,
+    "total_products": 8,
+    "avg_rating": 3.56,
+    "total_reviews": 277
+  },
+  {
+    "seller_id": 113592,
+    "seller_name": "Viễn thông Hà Nhung",
+    "is_official_store": "False",
+    "total_products": 7,
+    "avg_rating": 4.96,
+    "total_reviews": 209
+  },
+  {
+    "seller_id": 915,
+    "seller_name": "Nova Computer",
+    "is_official_store": "False",
+    "total_products": 7,
+    "avg_rating": 3.37,
+    "total_reviews": 49
+  },
+  {
+    "seller_id": 148809,
+    "seller_name": "AZ HOUSE",
+    "is_official_store": "False",
+    "total_products": 7,
+    "avg_rating": 2.86,
+    "total_reviews": 9
+  },
+  {
+    "seller_id": 41007,
+    "seller_name": "VIETMART 668",
+    "is_official_store": "False",
+    "total_products": 7,
+    "avg_rating": 4.74,
+    "total_reviews": 1308
+  },
+  {
+    "seller_id": 144022,
+    "seller_name": "SHOP NHÀ BON",
+    "is_official_store": "False",
+    "total_products": 7,
+    "avg_rating": 4.73,
+    "total_reviews": 137
+  },
+  {
+    "seller_id": 26446,
+    "seller_name": "Tin Học Hoàng Kim",
+    "is_official_store": "False",
+    "total_products": 7,
+    "avg_rating": 4.5,
+    "total_reviews": 33
+  },
+  {
+    "seller_id": 135215,
+    "seller_name": "Yen Vi Shop",
+    "is_official_store": "False",
+    "total_products": 7,
+    "avg_rating": 4.29,
+    "total_reviews": 91
+  },
+  {
+    "seller_id": 5383,
+    "seller_name": "Wannabe Lingerie Store",
+    "is_official_store": "False",
+    "total_products": 7,
+    "avg_rating": 2.0,
+    "total_reviews": 11
+  },
+  {
+    "seller_id": 141107,
+    "seller_name": "GuCase",
+    "is_official_store": false,
+    "total_products": 7,
+    "avg_rating": 1.29,
+    "total_reviews": 15
+  },
+  {
+    "seller_id": 44857,
+    "seller_name": "DAMAS Official Store",
+    "is_official_store": false,
+    "total_products": 7,
+    "avg_rating": 4.01,
+    "total_reviews": 946
+  },
+  {
+    "seller_id": 160749,
+    "seller_name": "Mishio Kachi Official",
+    "is_official_store": false,
+    "total_products": 7,
+    "avg_rating": 2.77,
+    "total_reviews": 105
+  },
+  {
+    "seller_id": 330024,
+    "seller_name": "YAHON LETGREEN Nhà Cửa Đời Sống",
+    "is_official_store": false,
+    "total_products": 7,
+    "avg_rating": 2.86,
+    "total_reviews": 30
+  },
+  {
+    "seller_id": 342902,
+    "seller_name": "HUONG TAM STORE",
+    "is_official_store": false,
+    "total_products": 7,
+    "avg_rating": 4.0,
+    "total_reviews": 20
+  },
+  {
+    "seller_id": 34716,
+    "seller_name": "GiaPhucStore",
+    "is_official_store": "False",
+    "total_products": 6,
+    "avg_rating": 3.97,
+    "total_reviews": 38
+  },
+  {
+    "seller_id": 33926,
+    "seller_name": "Sona Activewear",
+    "is_official_store": "False",
+    "total_products": 6,
+    "avg_rating": 4.07,
+    "total_reviews": 472
+  },
+  {
+    "seller_id": 11205,
+    "seller_name": "Hoàng Hải Store",
+    "is_official_store": false,
+    "total_products": 6,
+    "avg_rating": 2.3,
+    "total_reviews": 17
+  },
+  {
+    "seller_id": 20256,
+    "seller_name": "Telovietnam",
+    "is_official_store": false,
+    "total_products": 6,
+    "avg_rating": 2.42,
+    "total_reviews": 4
+  },
+  {
+    "seller_id": 162792,
+    "seller_name": "Áo Thun In",
+    "is_official_store": false,
+    "total_products": 6,
+    "avg_rating": 1.0,
+    "total_reviews": 2
+  },
+  {
+    "seller_id": 337363,
+    "seller_name": "DO GYM SHOP",
+    "is_official_store": false,
+    "total_products": 6,
+    "avg_rating": 2.47,
+    "total_reviews": 6
+  },
+  {
+    "seller_id": 184589,
+    "seller_name": "May mặc Đông Minh",
+    "is_official_store": false,
+    "total_products": 6,
+    "avg_rating": 3.08,
+    "total_reviews": 279
+  },
+  {
+    "seller_id": 539,
+    "seller_name": "AAA Jeans",
+    "is_official_store": false,
+    "total_products": 6,
+    "avg_rating": 3.13,
+    "total_reviews": 491
+  },
+  {
+    "seller_id": 113115,
+    "seller_name": "Deli Official Store",
+    "is_official_store": false,
+    "total_products": 6,
+    "avg_rating": 4.83,
+    "total_reviews": 138
+  },
+  {
+    "seller_id": 3645,
+    "seller_name": "TDCare",
+    "is_official_store": "False",
+    "total_products": 5,
+    "avg_rating": 4.86,
+    "total_reviews": 241
+  },
+  {
+    "seller_id": 6615,
+    "seller_name": "Sanny House",
+    "is_official_store": "False",
+    "total_products": 5,
+    "avg_rating": 2.8,
+    "total_reviews": 3
+  },
+  {
+    "seller_id": 78619,
+    "seller_name": "Muasam247",
+    "is_official_store": "False",
+    "total_products": 5,
+    "avg_rating": 2.6,
+    "total_reviews": 7
+  },
+  {
+    "seller_id": 107444,
+    "seller_name": "Thế Giới Pin Sinh Thái",
+    "is_official_store": "False",
+    "total_products": 5,
+    "avg_rating": 4.7,
+    "total_reviews": 722
+  },
+  {
+    "seller_id": 58789,
+    "seller_name": "Tech7",
+    "is_official_store": false,
+    "total_products": 5,
+    "avg_rating": 4.64,
+    "total_reviews": 150
+  },
+  {
+    "seller_id": 30787,
+    "seller_name": "AN PHAT COMPUTER",
+    "is_official_store": false,
+    "total_products": 5,
+    "avg_rating": 0.9,
+    "total_reviews": 10
+  },
+  {
+    "seller_id": 1710,
+    "seller_name": "hotphukien",
+    "is_official_store": false,
+    "total_products": 5,
+    "avg_rating": 2.9,
+    "total_reviews": 4
+  },
+  {
+    "seller_id": 104628,
+    "seller_name": "CasemeStore",
+    "is_official_store": false,
+    "total_products": 5,
+    "avg_rating": 2.84,
+    "total_reviews": 7
+  },
+  {
+    "seller_id": 99996,
+    "seller_name": "Tiross Hà Nội",
+    "is_official_store": false,
+    "total_products": 5,
+    "avg_rating": 1.96,
+    "total_reviews": 9
+  },
+  {
+    "seller_id": 236185,
+    "seller_name": "Minhlam Store",
+    "is_official_store": false,
+    "total_products": 5,
+    "avg_rating": 4.52,
+    "total_reviews": 46
+  },
+  {
+    "seller_id": 125741,
+    "seller_name": "Rhino Official Store",
+    "is_official_store": false,
+    "total_products": 5,
+    "avg_rating": 3.54,
+    "total_reviews": 106
+  },
+  {
+    "seller_id": 4189,
+    "seller_name": "Y Tế Lộc",
+    "is_official_store": false,
+    "total_products": 5,
+    "avg_rating": 4.7,
+    "total_reviews": 316
+  },
+  {
+    "seller_id": 167037,
+    "seller_name": "Hamart Gia Dụng Tiện Lợi",
+    "is_official_store": false,
+    "total_products": 5,
+    "avg_rating": 3.8,
+    "total_reviews": 33
+  },
+  {
+    "seller_id": 267028,
+    "seller_name": "Đồ ngủ sexy quyến rũ",
+    "is_official_store": false,
+    "total_products": 5,
+    "avg_rating": 2.8,
+    "total_reviews": 4
+  },
+  {
+    "seller_id": 287299,
+    "seller_name": "D Danido Homie Shop",
+    "is_official_store": "False",
+    "total_products": 4,
+    "avg_rating": 1.12,
+    "total_reviews": 10
+  },
+  {
+    "seller_id": 134878,
+    "seller_name": "Áo Điều Hòa KITO",
+    "is_official_store": "False",
+    "total_products": 4,
+    "avg_rating": 1.75,
+    "total_reviews": 2
+  },
+  {
+    "seller_id": 332468,
+    "seller_name": "Kazata Store Quần Jean Nam",
+    "is_official_store": "False",
+    "total_products": 4,
+    "avg_rating": 3.75,
+    "total_reviews": 12
+  },
+  {
+    "seller_id": 1691,
+    "seller_name": "Đại Nam Sport",
+    "is_official_store": "False",
+    "total_products": 4,
+    "avg_rating": 4.55,
+    "total_reviews": 144
+  },
+  {
+    "seller_id": 4997,
+    "seller_name": "HXSJ Official Store",
+    "is_official_store": false,
+    "total_products": 4,
+    "avg_rating": 4.7,
+    "total_reviews": 213
+  },
+  {
+    "seller_id": 236620,
+    "seller_name": "ROCKSPACE OFFICIAL STORE",
+    "is_official_store": false,
+    "total_products": 4,
+    "avg_rating": 4.55,
+    "total_reviews": 44
+  },
+  {
+    "seller_id": 76796,
+    "seller_name": "Vietstore24h",
+    "is_official_store": false,
+    "total_products": 4,
+    "avg_rating": 4.83,
+    "total_reviews": 59
+  },
+  {
+    "seller_id": 279683,
+    "seller_name": "Kai N Accessory",
+    "is_official_store": false,
+    "total_products": 4,
+    "avg_rating": 1.2,
+    "total_reviews": 5
+  },
+  {
+    "seller_id": 50766,
+    "seller_name": "Thế giới sản phẩm",
+    "is_official_store": false,
+    "total_products": 4,
+    "avg_rating": 3.2,
+    "total_reviews": 20
+  },
+  {
+    "seller_id": 181356,
+    "seller_name": "Phụ Kiện Bingo",
+    "is_official_store": false,
+    "total_products": 4,
+    "avg_rating": 1.25,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 11176,
+    "seller_name": "Công Ty Phong Tiến",
+    "is_official_store": false,
+    "total_products": 4,
+    "avg_rating": 1.25,
+    "total_reviews": 8
+  },
+  {
+    "seller_id": 8413,
+    "seller_name": "SMY (Tp.HCM)",
+    "is_official_store": false,
+    "total_products": 4,
+    "avg_rating": 3.52,
+    "total_reviews": 183
+  },
+  {
+    "seller_id": 5321,
+    "seller_name": "Kobi official store",
+    "is_official_store": false,
+    "total_products": 4,
+    "avg_rating": 4.75,
+    "total_reviews": 92
+  },
+  {
+    "seller_id": 84406,
+    "seller_name": "QUÝ KHANG MART",
+    "is_official_store": false,
+    "total_products": 4,
+    "avg_rating": 4.03,
+    "total_reviews": 21
+  },
+  {
+    "seller_id": 7176,
+    "seller_name": "FREEMAN & JOBELLI",
+    "is_official_store": false,
+    "total_products": 4,
+    "avg_rating": 4.47,
+    "total_reviews": 36
+  },
+  {
+    "seller_id": 5961,
+    "seller_name": "Phúc An",
+    "is_official_store": false,
+    "total_products": 4,
+    "avg_rating": 3.22,
+    "total_reviews": 32
+  },
+  {
+    "seller_id": 45683,
+    "seller_name": "GấuMẹ Shop",
+    "is_official_store": false,
+    "total_products": 4,
+    "avg_rating": 2.25,
+    "total_reviews": 3
+  },
+  {
+    "seller_id": 118406,
+    "seller_name": "Vạn Tín Store",
+    "is_official_store": false,
+    "total_products": 4,
+    "avg_rating": 4.88,
+    "total_reviews": 33
+  },
+  {
+    "seller_id": 1785,
+    "seller_name": "Đèn Philips chính hãng",
+    "is_official_store": false,
+    "total_products": 4,
+    "avg_rating": 4.88,
+    "total_reviews": 215
+  },
+  {
+    "seller_id": 38963,
+    "seller_name": "Techmorevn",
+    "is_official_store": "False",
+    "total_products": 3,
+    "avg_rating": 5.0,
+    "total_reviews": 6
+  },
+  {
+    "seller_id": 54082,
+    "seller_name": "CST Telecom",
+    "is_official_store": "False",
+    "total_products": 3,
+    "avg_rating": 3.27,
+    "total_reviews": 19
+  },
+  {
+    "seller_id": 338,
+    "seller_name": "Nhà Giả Kim",
+    "is_official_store": "False",
+    "total_products": 3,
+    "avg_rating": 1.6,
+    "total_reviews": 99
+  },
+  {
+    "seller_id": 56711,
+    "seller_name": "THỊNH PHÁT SHOP",
+    "is_official_store": "False",
+    "total_products": 3,
+    "avg_rating": 4.27,
+    "total_reviews": 67
+  },
+  {
+    "seller_id": 2026,
+    "seller_name": "Tienphatsmart",
+    "is_official_store": "False",
+    "total_products": 3,
+    "avg_rating": 4.6,
+    "total_reviews": 82
+  },
+  {
+    "seller_id": 1765,
+    "seller_name": "Ant home",
+    "is_official_store": "False",
+    "total_products": 3,
+    "avg_rating": 4.27,
+    "total_reviews": 74
+  },
+  {
+    "seller_id": 113,
+    "seller_name": "Tuấn Tú Store",
+    "is_official_store": "False",
+    "total_products": 3,
+    "avg_rating": 4.77,
+    "total_reviews": 239
+  },
+  {
+    "seller_id": 200265,
+    "seller_name": "Kmart Store",
+    "is_official_store": false,
+    "total_products": 3,
+    "avg_rating": 4.93,
+    "total_reviews": 19
+  },
+  {
+    "seller_id": 81456,
+    "seller_name": "Shop 24719",
+    "is_official_store": false,
+    "total_products": 3,
+    "avg_rating": 1.4,
+    "total_reviews": 13
+  },
+  {
+    "seller_id": 81570,
+    "seller_name": "HoangHai store",
+    "is_official_store": false,
+    "total_products": 3,
+    "avg_rating": 2.73,
+    "total_reviews": 11
+  },
+  {
+    "seller_id": 181601,
+    "seller_name": "Phụ Kiện ATZVN",
+    "is_official_store": false,
+    "total_products": 3,
+    "avg_rating": 2.33,
+    "total_reviews": 2
+  },
+  {
+    "seller_id": 11119,
+    "seller_name": "GIA DỤNG VIỆT",
+    "is_official_store": false,
+    "total_products": 3,
+    "avg_rating": 3.33,
+    "total_reviews": 5
+  },
+  {
+    "seller_id": 14813,
+    "seller_name": "ugreenonline",
+    "is_official_store": false,
+    "total_products": 3,
+    "avg_rating": 3.27,
+    "total_reviews": 7
+  },
+  {
+    "seller_id": 184829,
+    "seller_name": "Bim Mart",
+    "is_official_store": false,
+    "total_products": 3,
+    "avg_rating": 3.67,
+    "total_reviews": 16
+  },
+  {
+    "seller_id": 57800,
+    "seller_name": "Siêu Thị NaNo",
+    "is_official_store": false,
+    "total_products": 3,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 125683,
+    "seller_name": "M2P Shop",
+    "is_official_store": false,
+    "total_products": 3,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 179711,
+    "seller_name": "ĐIỆN MÁY HTG",
+    "is_official_store": false,
+    "total_products": 3,
+    "avg_rating": 3.33,
+    "total_reviews": 2
+  },
+  {
+    "seller_id": 53660,
+    "seller_name": "Nhà sách Fahasa",
+    "is_official_store": false,
+    "total_products": 3,
+    "avg_rating": 4.9,
+    "total_reviews": 39
+  },
+  {
+    "seller_id": 327437,
+    "seller_name": "BS Đỗ Trung Kiên",
+    "is_official_store": false,
+    "total_products": 3,
+    "avg_rating": 4.93,
+    "total_reviews": 107
+  },
+  {
+    "seller_id": 239315,
+    "seller_name": "Soliup",
+    "is_official_store": false,
+    "total_products": 3,
+    "avg_rating": 5.0,
+    "total_reviews": 13
+  },
+  {
+    "seller_id": 245529,
+    "seller_name": "Big Forest Store",
+    "is_official_store": false,
+    "total_products": 3,
+    "avg_rating": 4.7,
+    "total_reviews": 62
+  },
+  {
+    "seller_id": 193621,
+    "seller_name": "MEDiCARE Official Store",
+    "is_official_store": false,
+    "total_products": 3,
+    "avg_rating": 0.33,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 37079,
+    "seller_name": "Thebeauty",
+    "is_official_store": false,
+    "total_products": 3,
+    "avg_rating": 3.07,
+    "total_reviews": 317
+  },
+  {
+    "seller_id": 253372,
+    "seller_name": "Đức Tuấn Shop",
+    "is_official_store": false,
+    "total_products": 3,
+    "avg_rating": 1.67,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 187091,
+    "seller_name": "Hiền Trần BOUTIQUE Official",
+    "is_official_store": false,
+    "total_products": 3,
+    "avg_rating": 4.9,
+    "total_reviews": 9
+  },
+  {
+    "seller_id": 176918,
+    "seller_name": "LEMAN Official Store",
+    "is_official_store": false,
+    "total_products": 3,
+    "avg_rating": 4.8,
+    "total_reviews": 35
+  },
+  {
+    "seller_id": 103662,
+    "seller_name": "Beauty and Fashion",
+    "is_official_store": false,
+    "total_products": 3,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 304603,
+    "seller_name": "RCR CRISTALLERIA ITALIANA",
+    "is_official_store": false,
+    "total_products": 3,
+    "avg_rating": 1.67,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 297205,
+    "seller_name": "FIRO OFFICIAL STORE",
+    "is_official_store": "False",
+    "total_products": 2,
+    "avg_rating": 5.0,
+    "total_reviews": 173
+  },
+  {
+    "seller_id": 34473,
+    "seller_name": "Danido Store",
+    "is_official_store": "False",
+    "total_products": 2,
+    "avg_rating": 2.3,
+    "total_reviews": 164
+  },
+  {
+    "seller_id": 147336,
+    "seller_name": "JM STORE",
+    "is_official_store": "False",
+    "total_products": 2,
+    "avg_rating": 4.8,
+    "total_reviews": 469
+  },
+  {
+    "seller_id": 363032,
+    "seller_name": "Shop Phố Anh",
+    "is_official_store": "False",
+    "total_products": 2,
+    "avg_rating": 2.0,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 5907,
+    "seller_name": "BORO SPORT",
+    "is_official_store": "False",
+    "total_products": 2,
+    "avg_rating": 4.6,
+    "total_reviews": 97
+  },
+  {
+    "seller_id": 141524,
+    "seller_name": "Giải Pháp An Ninh Toàn Cầu",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 61683,
+    "seller_name": "Công Nghệ NICEVISOFT",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 268933,
+    "seller_name": "DIZI STORE ONLINE",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 4.85,
+    "total_reviews": 58
+  },
+  {
+    "seller_id": 80295,
+    "seller_name": "Shop HG",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 4.8,
+    "total_reviews": 6
+  },
+  {
+    "seller_id": 15937,
+    "seller_name": "VINSEC",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 2.5,
+    "total_reviews": 3
+  },
+  {
+    "seller_id": 138101,
+    "seller_name": "Halo Việt",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 2.4,
+    "total_reviews": 5
+  },
+  {
+    "seller_id": 278788,
+    "seller_name": "Pixlink Office Store",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 4.6,
+    "total_reviews": 364
+  },
+  {
+    "seller_id": 242619,
+    "seller_name": "Sim Thạch Thất 368",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 2.4,
+    "total_reviews": 447
+  },
+  {
+    "seller_id": 193791,
+    "seller_name": "ADZ Store",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 257872,
+    "seller_name": "Lew Case Shop Công Nghệ",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 2.5,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 106295,
+    "seller_name": "Chim sẻ đi nắng",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 4.75,
+    "total_reviews": 3
+  },
+  {
+    "seller_id": 211062,
+    "seller_name": "Tăm nước Sài Gòn",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 4.75,
+    "total_reviews": 34
+  },
+  {
+    "seller_id": 195742,
+    "seller_name": "Điện Máy Vymart",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 4.75,
+    "total_reviews": 326
+  },
+  {
+    "seller_id": 69337,
+    "seller_name": "Home Star Store",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 2.0,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 203034,
+    "seller_name": "Gia Dụng Trí Vũ",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 4.5,
+    "total_reviews": 2
+  },
+  {
+    "seller_id": 138278,
+    "seller_name": "AM MART",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 4.75,
+    "total_reviews": 24
+  },
+  {
+    "seller_id": 288606,
+    "seller_name": "CH Thực Phẩm Chức Năng HM",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 4.65,
+    "total_reviews": 58
+  },
+  {
+    "seller_id": 4078,
+    "seller_name": "QuaTangMe Extaste",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 4.7,
+    "total_reviews": 381
+  },
+  {
+    "seller_id": 199449,
+    "seller_name": "Ukmart",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 4.9,
+    "total_reviews": 33
+  },
+  {
+    "seller_id": 331734,
+    "seller_name": "Pharm.D Official Store",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 5.0,
+    "total_reviews": 7
+  },
+  {
+    "seller_id": 10638,
+    "seller_name": "VIVALUST COSMETICS",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 1178,
+    "seller_name": "Oribe Store",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 3.9,
+    "total_reviews": 568
+  },
+  {
+    "seller_id": 128151,
+    "seller_name": "Perfetta Official Store",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 2.15,
+    "total_reviews": 12
+  },
+  {
+    "seller_id": 120432,
+    "seller_name": "Min Cosmetics",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 4.5,
+    "total_reviews": 36
+  },
+  {
+    "seller_id": 133020,
+    "seller_name": "Thiết bị y tế Gia Đình HME",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 2.15,
+    "total_reviews": 7
+  },
+  {
+    "seller_id": 62812,
+    "seller_name": "CELLKEY-SCIEN OFFICIAL STORE",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 4.75,
+    "total_reviews": 516
+  },
+  {
+    "seller_id": 7673,
+    "seller_name": "The True Japan",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 4.55,
+    "total_reviews": 129
+  },
+  {
+    "seller_id": 8172,
+    "seller_name": "Airseven",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 4.7,
+    "total_reviews": 14
+  },
+  {
+    "seller_id": 9307,
+    "seller_name": "Woada_Underwear",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 2.5,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 1928,
+    "seller_name": "Lantavina",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 4.9,
+    "total_reviews": 6
+  },
+  {
+    "seller_id": 362849,
+    "seller_name": "MayBaebyfashion",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 333312,
+    "seller_name": "Phiten Flagship Store",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 2.5,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 210028,
+    "seller_name": "Shopdobo265",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 2.5,
+    "total_reviews": 3
+  },
+  {
+    "seller_id": 126,
+    "seller_name": "iBasic Official Store",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 4.8,
+    "total_reviews": 9
+  },
+  {
+    "seller_id": 17905,
+    "seller_name": "Tifalu Fashion",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 35488,
+    "seller_name": "Aquaria",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 77737,
+    "seller_name": "Nông Nghiệp Khuya",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 3.75,
+    "total_reviews": 9
+  },
+  {
+    "seller_id": 1242,
+    "seller_name": "Vo Hoang Trading Co.,Ltd",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 5.0,
+    "total_reviews": 308
+  },
+  {
+    "seller_id": 288539,
+    "seller_name": "Shop Vạn Năng Solar",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 4.75,
+    "total_reviews": 21
+  },
+  {
+    "seller_id": 291512,
+    "seller_name": "Phố Xinh Store",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 4.15,
+    "total_reviews": 5
+  },
+  {
+    "seller_id": 172234,
+    "seller_name": "TOKDODO Official Store",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 5.0,
+    "total_reviews": 5
+  },
+  {
+    "seller_id": 101716,
+    "seller_name": "GIA DỤNG TIỆN ÍCH MINH NGỌC",
+    "is_official_store": false,
+    "total_products": 2,
+    "avg_rating": 4.8,
+    "total_reviews": 352
+  },
+  {
+    "seller_id": 332042,
+    "seller_name": "GOTECHSOFT CO LTD",
+    "is_official_store": "False",
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 297110,
+    "seller_name": "O-TECH SHOP",
+    "is_official_store": "False",
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 64157,
+    "seller_name": "Nhang Sen Liên Tâm",
+    "is_official_store": "False",
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 8
+  },
+  {
+    "seller_id": 19256,
+    "seller_name": "HỘ KINH DOANH CỬA HÀNG GÓI HÚT ẨM",
+    "is_official_store": "False",
+    "total_products": 1,
+    "avg_rating": 4.8,
+    "total_reviews": 276
+  },
+  {
+    "seller_id": 320525,
+    "seller_name": "Điện dân dụng và Đồ Outdoor TL",
+    "is_official_store": "False",
+    "total_products": 1,
+    "avg_rating": 3.5,
+    "total_reviews": 2
+  },
+  {
+    "seller_id": 41078,
+    "seller_name": "Smart Store",
+    "is_official_store": "False",
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 31445,
+    "seller_name": "AH SPORT",
+    "is_official_store": "False",
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 894,
+    "seller_name": "iFitness",
+    "is_official_store": "False",
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 7
+  },
+  {
+    "seller_id": 123173,
+    "seller_name": "Bibi Sport",
+    "is_official_store": "False",
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 2
+  },
+  {
+    "seller_id": 57690,
+    "seller_name": "Shop đồ chơi thông minh thánh gióng",
+    "is_official_store": "False",
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 253455,
+    "seller_name": "CỬA HÀNG 108",
+    "is_official_store": "False",
+    "total_products": 1,
+    "avg_rating": 4.8,
+    "total_reviews": 74
+  },
+  {
+    "seller_id": 198145,
+    "seller_name": "CampOut Life is the better Official",
+    "is_official_store": "False",
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 2
+  },
+  {
+    "seller_id": 161884,
+    "seller_name": "Quân Camp",
+    "is_official_store": "False",
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 3
+  },
+  {
+    "seller_id": 264777,
+    "seller_name": "HSG Distribution",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 15461,
+    "seller_name": "phucantech",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 73305,
+    "seller_name": "Công Nghệ và Truyền Thông Zlink",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 364764,
+    "seller_name": "WIN SHOP Q9",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 3.3,
+    "total_reviews": 7
+  },
+  {
+    "seller_id": 137089,
+    "seller_name": "Thiết Bị Mới",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.5,
+    "total_reviews": 15
+  },
+  {
+    "seller_id": 162657,
+    "seller_name": "AMA Store",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.8,
+    "total_reviews": 9
+  },
+  {
+    "seller_id": 298886,
+    "seller_name": "CAMERA PHƯƠNG ĐÔNG Store",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 21
+  },
+  {
+    "seller_id": 201269,
+    "seller_name": "Crazy Cool Official",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.8,
+    "total_reviews": 6
+  },
+  {
+    "seller_id": 109746,
+    "seller_name": "VinBuy",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.7,
+    "total_reviews": 55
+  },
+  {
+    "seller_id": 356119,
+    "seller_name": "2nhktech",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.0,
+    "total_reviews": 6
+  },
+  {
+    "seller_id": 52525,
+    "seller_name": "An Khang Computer",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 67487,
+    "seller_name": "hearme",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 315502,
+    "seller_name": "Choetech Flagship Store",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.0,
+    "total_reviews": 9
+  },
+  {
+    "seller_id": 2676,
+    "seller_name": "opba.vn",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 2.0,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 333,
+    "seller_name": "Trọng Ân audio",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.5,
+    "total_reviews": 16
+  },
+  {
+    "seller_id": 352627,
+    "seller_name": "Viễn Thông Minh Đức",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 97441,
+    "seller_name": "Luckky Shop",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 10889,
+    "seller_name": "MuaMuaOnline",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.7,
+    "total_reviews": 6
+  },
+  {
+    "seller_id": 304908,
+    "seller_name": "TRÀ MY SHOP 2020",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 6975,
+    "seller_name": "HACHI STORE",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 2
+  },
+  {
+    "seller_id": 145378,
+    "seller_name": "Prolink Official Store",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.6,
+    "total_reviews": 34
+  },
+  {
+    "seller_id": 1892,
+    "seller_name": "Binaishop",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 59937,
+    "seller_name": "Ken Bun Shop",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.5,
+    "total_reviews": 50
+  },
+  {
+    "seller_id": 290542,
+    "seller_name": "CÔNG TY TNHH TMĐT KIM LONG",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 3
+  },
+  {
+    "seller_id": 1567,
+    "seller_name": "Robotek Viet Nam",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 78755,
+    "seller_name": "Bepnhatoi",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 208147,
+    "seller_name": "SIÊU THỊ ĐIỆN MÁY GIA DỤNG",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 360957,
+    "seller_name": "Seka Official Store",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.0,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 112115,
+    "seller_name": "TỔNG KHO ĐIỆN MÁY - GIA DỤNG",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 117627,
+    "seller_name": "Halo Buy",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.5,
+    "total_reviews": 129
+  },
+  {
+    "seller_id": 141077,
+    "seller_name": "Pi Stores",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 31740,
+    "seller_name": "HƯNG THỊNH SHOP",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 3.0,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 108287,
+    "seller_name": "Kemnghiaminhtam",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 2
+  },
+  {
+    "seller_id": 9711,
+    "seller_name": "ĐỒ DA THÀNH LONG TLG",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 2
+  },
+  {
+    "seller_id": 240,
+    "seller_name": "NaMilux Official Store",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 1957,
+    "seller_name": "Bếp Minh Hà",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.5,
+    "total_reviews": 19
+  },
+  {
+    "seller_id": 121449,
+    "seller_name": "Karofi official",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 184067,
+    "seller_name": "Siêu Thị Điện Máy Từ Sơn",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 6201,
+    "seller_name": "Điện Máy Gia Dụng Smilemart",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.6,
+    "total_reviews": 59
+  },
+  {
+    "seller_id": 356985,
+    "seller_name": "SÁNG BOOKS",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 62
+  },
+  {
+    "seller_id": 360665,
+    "seller_name": "Sách song ngữ Anna",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.8,
+    "total_reviews": 16
+  },
+  {
+    "seller_id": 359052,
+    "seller_name": "YOK Bao cao su HCM",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 158877,
+    "seller_name": "Liên Minh 1974",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 28366,
+    "seller_name": "kimdungpt",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.7,
+    "total_reviews": 71
+  },
+  {
+    "seller_id": 93666,
+    "seller_name": "Lamimi Cosmetics",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 7623,
+    "seller_name": "MK Beauty Shop",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.6,
+    "total_reviews": 455
+  },
+  {
+    "seller_id": 44260,
+    "seller_name": "Bảo Hộ Sài Gòn",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.3,
+    "total_reviews": 14
+  },
+  {
+    "seller_id": 108961,
+    "seller_name": "Mercy Cosmetics",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 3
+  },
+  {
+    "seller_id": 12868,
+    "seller_name": "Kềm Nghĩa Official",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.8,
+    "total_reviews": 334
+  },
+  {
+    "seller_id": 2824,
+    "seller_name": "Oralmart",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 107426,
+    "seller_name": "PH PUHA Official",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.8,
+    "total_reviews": 25
+  },
+  {
+    "seller_id": 285227,
+    "seller_name": "Fresh Beauty by KnK Store",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.6,
+    "total_reviews": 48
+  },
+  {
+    "seller_id": 2091,
+    "seller_name": "Hexagon",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.8,
+    "total_reviews": 49
+  },
+  {
+    "seller_id": 13239,
+    "seller_name": "Jess shop cosmetics",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 301464,
+    "seller_name": "Bảo Hộ Lao Động ECo",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 179828,
+    "seller_name": "SHOP VÀNG ANH",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 762,
+    "seller_name": "NhaCungCap",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.2,
+    "total_reviews": 9
+  },
+  {
+    "seller_id": 92697,
+    "seller_name": "Gam Ma",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 38,
+    "seller_name": "Tinh Hoa",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 4
+  },
+  {
+    "seller_id": 19944,
+    "seller_name": "Shop Thái Nhật Hàn",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.7,
+    "total_reviews": 3
+  },
+  {
+    "seller_id": 352407,
+    "seller_name": "LAC Official Store",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 5
+  },
+  {
+    "seller_id": 179506,
+    "seller_name": "Shop Mỹ Phẩm Nga",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.5,
+    "total_reviews": 2
+  },
+  {
+    "seller_id": 90355,
+    "seller_name": "Bilaha Store",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.7,
+    "total_reviews": 7
+  },
+  {
+    "seller_id": 286772,
+    "seller_name": "KISSME VIETNAM",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 8
+  },
+  {
+    "seller_id": 118104,
+    "seller_name": "tinh dầu thiên nhiên mộc mây",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 3
+  },
+  {
+    "seller_id": 40331,
+    "seller_name": "49P Toothcare",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.8,
+    "total_reviews": 65
+  },
+  {
+    "seller_id": 195824,
+    "seller_name": "Haphuongshop",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.0,
+    "total_reviews": 3
+  },
+  {
+    "seller_id": 274292,
+    "seller_name": "HT2 SHOP",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 2
+  },
+  {
+    "seller_id": 16414,
+    "seller_name": "Ninomaxx Concept",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 87626,
+    "seller_name": "Namquynhshop",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.0,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 324342,
+    "seller_name": "mlot Store",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 129573,
+    "seller_name": "Áo điều hòa",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 294290,
+    "seller_name": "Anlimen Gentle",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 70540,
+    "seller_name": "Phương Khang Sport",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 272127,
+    "seller_name": "Benzmen Fashion",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 211071,
+    "seller_name": "MFM FASHION",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 304979,
+    "seller_name": "Tiệm Đồ Lót Tee House",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 4702,
+    "seller_name": "Simple & Basic",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 365311,
+    "seller_name": "AeroLuxe",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 260851,
+    "seller_name": "SURE Luxurious",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 36961,
+    "seller_name": "Maxivic Signature",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 241803,
+    "seller_name": "Shop online 1703",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 19782,
+    "seller_name": "MUANHANH",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 363701,
+    "seller_name": "Trần Thị Thuỳ",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 160802,
+    "seller_name": "AIN Closet Official",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 194585,
+    "seller_name": "HNStore115",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 186114,
+    "seller_name": "Áo dài Tuấn Thi",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 251078,
+    "seller_name": "Vinaci",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 12998,
+    "seller_name": "Vincy Store",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 365586,
+    "seller_name": "Kiều Oanh Designer",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 310432,
+    "seller_name": "WEINS",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 107464,
+    "seller_name": "thoitrangxinh",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 135606,
+    "seller_name": "Myqlothing",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 5006,
+    "seller_name": "New4all (Tp.HCM)",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.3,
+    "total_reviews": 3
+  },
+  {
+    "seller_id": 123029,
+    "seller_name": "Bách Hóa Online 24h",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.8,
+    "total_reviews": 65
+  },
+  {
+    "seller_id": 362830,
+    "seller_name": "HA MY SHOP 06",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 256698,
+    "seller_name": "Gốm Giang Bát Tràng",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 3.0,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 100773,
+    "seller_name": "Smart Trading",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.7,
+    "total_reviews": 26
+  },
+  {
+    "seller_id": 346508,
+    "seller_name": "Trầm Hương 3 Lành",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 293122,
+    "seller_name": "Dụng cụ làm vườn Greenhomevn",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 8582,
+    "seller_name": "OHAHA",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 3
+  },
+  {
+    "seller_id": 1569,
+    "seller_name": "Gia Dụng thông minh",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 75315,
+    "seller_name": "Chăn Ga Gối Thanh Trúc",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 5
+  },
+  {
+    "seller_id": 1363,
+    "seller_name": "juno sofa",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.0,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 19753,
+    "seller_name": "MSOFTVN",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.8,
+    "total_reviews": 111
+  },
+  {
+    "seller_id": 31375,
+    "seller_name": "Guitar MinMusic",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 2.0,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 159303,
+    "seller_name": "Nhựa Chấn Thuận Thành",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.2,
+    "total_reviews": 40
+  },
+  {
+    "seller_id": 9463,
+    "seller_name": "Bách hóa tổng hợp 168",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.5,
+    "total_reviews": 54
+  },
+  {
+    "seller_id": 67417,
+    "seller_name": "Shop AZ",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 2
+  },
+  {
+    "seller_id": 364127,
+    "seller_name": "Quả cầu phong thuỷ1",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 11242,
+    "seller_name": "Tín An",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.6,
+    "total_reviews": 225
+  },
+  {
+    "seller_id": 308164,
+    "seller_name": "GoodPartner",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 8
+  },
+  {
+    "seller_id": 95760,
+    "seller_name": "F8",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.8,
+    "total_reviews": 9
+  },
+  {
+    "seller_id": 86709,
+    "seller_name": "PHAN GIA BBK",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.1,
+    "total_reviews": 46
+  },
+  {
+    "seller_id": 115373,
+    "seller_name": "ANZZAR HOME",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 1
+  },
+  {
+    "seller_id": 241398,
+    "seller_name": "XỐP DÁN TƯỜNG 3D TÂN PHÚ",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.6,
+    "total_reviews": 31
+  },
+  {
+    "seller_id": 233352,
+    "seller_name": "AnAn house",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.5,
+    "total_reviews": 113
+  },
+  {
+    "seller_id": 1346,
+    "seller_name": "Siêu Thị Nến",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.7,
+    "total_reviews": 61
+  },
+  {
+    "seller_id": 2684,
+    "seller_name": "HKT Home Shopping",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.6,
+    "total_reviews": 9
+  },
+  {
+    "seller_id": 364128,
+    "seller_name": "Quả cầu Phong thuỷ 23000",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 362662,
+    "seller_name": "MinhHải Zone",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 0.0,
+    "total_reviews": 0
+  },
+  {
+    "seller_id": 357571,
+    "seller_name": "Gốm Sứ G Gomie Ceramic Cao Cấp",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 2
+  },
+  {
+    "seller_id": 227617,
+    "seller_name": "Bambo Mat HT",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 2
+  },
+  {
+    "seller_id": 188965,
+    "seller_name": "Ga chống thấm LoveMama",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 4.7,
+    "total_reviews": 3
+  },
+  {
+    "seller_id": 234289,
+    "seller_name": "Nox Coffee Store",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 4
+  },
+  {
+    "seller_id": 187817,
+    "seller_name": "SAPATA Official Store",
+    "is_official_store": false,
+    "total_products": 1,
+    "avg_rating": 5.0,
+    "total_reviews": 2
+  }
+]

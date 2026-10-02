@@ -1,5 +1,0 @@
-segment,total_customers,avg_recency_days,avg_frequency,avg_monetary_vnd,total_monetary_vnd,customer_share_pct,revenue_share_pct,chien_luoc_tiep_thi
-Khách Hàng Khám Phá (Promising),221,49.6,6.6,21913475.0,4842878000,27.7,19.9,Gửi thông báo đẩy về các danh mục hàng bán chạy và sản phẩm có đánh giá 5 sao.
-Khách Hàng Nguy Cơ Rời Bỏ (At Risk),178,94.5,4.9,11762188.0,2093669500,22.3,8.6,Chiến dịch Win-back email: Mã coupon ưu đãi 20% cho đơn hàng quay lại.
-Khách Hàng Tiềm Năng (Loyalists),218,34.5,8.4,33848454.0,7378963000,27.3,30.3,"Đề xuất sản phẩm Cross-selling dựa trên ALS, tặng voucher giảm 10% đơn tiếp theo."
-Khách Hàng VIP (Champions),182,17.1,10.2,55038871.0,10017074500,22.8,41.2,"Gia hạn gói TikiNow VIP miễn phí, cung cấp đặc quyền truy cập sớm ngày hội siêu sale 11/11."

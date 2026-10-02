@@ -1,0 +1,92 @@
+[
+  {
+    "category_id": 1789,
+    "category_name": "Điện Thoại - Máy Tính Bảng",
+    "parent_id": 0,
+    "level": 1,
+    "url_slug": "dien-thoai-may-tinh-bang",
+    "total_products": 107,
+    "crawled_at": "2026-10-01 12:17:46"
+  },
+  {
+    "category_id": 1815,
+    "category_name": "Thiết Bị Số - Phụ Kiện Số",
+    "parent_id": 0,
+    "level": 1,
+    "url_slug": "thiet-bi-so-phu-kien-so",
+    "total_products": 2000,
+    "crawled_at": "2026-10-01 12:17:46"
+  },
+  {
+    "category_id": 1882,
+    "category_name": "Điện Gia Dụng",
+    "parent_id": 0,
+    "level": 1,
+    "url_slug": "dien-gia-dung",
+    "total_products": 2000,
+    "crawled_at": "2026-10-01 12:17:46"
+  },
+  {
+    "category_id": 8322,
+    "category_name": "Nhà Sách Tiki",
+    "parent_id": 0,
+    "level": 1,
+    "url_slug": "nha-sach-tiki",
+    "total_products": 2000,
+    "crawled_at": "2026-10-01 12:17:46"
+  },
+  {
+    "category_id": 1520,
+    "category_name": "Làm Đẹp - Sức Khỏe",
+    "parent_id": 0,
+    "level": 1,
+    "url_slug": "lam-dep-suc-khoe",
+    "total_products": 2000,
+    "crawled_at": "2026-10-01 12:17:46"
+  },
+  {
+    "category_id": 915,
+    "category_name": "Thời Trang Nam",
+    "parent_id": 0,
+    "level": 1,
+    "url_slug": "thoi-trang-nam",
+    "total_products": 2000,
+    "crawled_at": "2026-10-01 12:17:46"
+  },
+  {
+    "category_id": 931,
+    "category_name": "Thời Trang Nữ",
+    "parent_id": 0,
+    "level": 1,
+    "url_slug": "thoi-trang-nu",
+    "total_products": 2000,
+    "crawled_at": "2026-10-01 12:17:46"
+  },
+  {
+    "category_id": 1883,
+    "category_name": "Nhà Cửa - Đời Sống",
+    "parent_id": 0,
+    "level": 1,
+    "url_slug": "nha-cua-doi-song",
+    "total_products": 2000,
+    "crawled_at": "2026-10-01 12:17:46"
+  },
+  {
+    "category_id": 4384,
+    "category_name": "Bách Hóa Online",
+    "parent_id": 0,
+    "level": 1,
+    "url_slug": "bach-hoa-online",
+    "total_products": 2000,
+    "crawled_at": "2026-10-01 12:17:46"
+  },
+  {
+    "category_id": 1975,
+    "category_name": "Thể Thao - Dã Ngoại",
+    "parent_id": 0,
+    "level": 1,
+    "url_slug": "the-thao-da-ngoai",
+    "total_products": 2000,
+    "crawled_at": "2026-10-01 12:17:46"
+  }
+]
